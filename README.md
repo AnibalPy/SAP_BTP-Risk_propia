@@ -8,7 +8,7 @@ You can complete each of the exercises using your SAP BTP Free Tier account. In 
 
 ## Download and Installation
 
-To get started with the first exercise, simply run the following commands in your terminal:
+To get started with the first exercise, simply run the following commands in your terminal:  
 
 ```sh
 git clone https://github.com/SAP-samples/btp-side-by-side-extension-learning-journey
