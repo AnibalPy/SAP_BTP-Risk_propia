@@ -12,7 +12,7 @@
     "@sap/cds-dk": "7.6.0",
     "@sap/cds-hana": "^2",
     "@sap/xssec": "^3",
-    "express": "^4",
+    "express": "^5",
     "passport": "^0.7.0"
   },
   "devDependencies": {
